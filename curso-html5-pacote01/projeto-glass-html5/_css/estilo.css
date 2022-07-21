@@ -1,0 +1,9 @@
+@charset "UTF8";
+
+body {
+    background-color: pink;
+}
+p {
+    text-align: justify;
+    text-indent: 50px;
+}

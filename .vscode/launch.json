@@ -7,8 +7,8 @@
         {
             "type": "pwa-chrome",
             "request": "launch",
-            "name": "Open inicialindex.html",
-            "file": "d:\\COISAS FACUL\\HTML\\exemplos-aprender\\EXEMPLOS PRA EU APRENDER\\GUANABARA\\GUANABARA\\inicialindex.html"
+            "name": "Open paginainicial.index.html",
+            "file": "d:\\COISAS FACUL\\HTML\\EXEMPLOS-EXERCICIOS\\GUANABARA\\GUANABARA\\paginainicial.index.html"
         }
     ]
 }

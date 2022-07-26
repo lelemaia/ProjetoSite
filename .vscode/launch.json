@@ -4,12 +4,11 @@
     // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-
         {
             "type": "pwa-chrome",
             "request": "launch",
-            "name": "Open index.html",
-            "file": "d:\\COISAS FACUL\\HTML\\exemplos-aprender\\EXEMPLOS PRA EU APRENDER\\GUANABARA\\GUANABARA\\index.html"
+            "name": "Open inicialindex.html",
+            "file": "d:\\COISAS FACUL\\HTML\\exemplos-aprender\\EXEMPLOS PRA EU APRENDER\\GUANABARA\\GUANABARA\\inicialindex.html"
         }
     ]
 }
